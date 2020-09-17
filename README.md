@@ -1,2 +1,2 @@
 # proutils-api
-API backend for proutils.com
+Azure Functions API backend for proutils.com.
